@@ -1,5 +1,5 @@
 # phishing-lists
-#Phishing Domains, urls websites.
+# Phishing Domains, urls websites.
 ## Update every 12 Hours
 ## for more help contact me: bavari.ccusa@gmail.com
 
